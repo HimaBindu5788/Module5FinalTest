@@ -1,0 +1,310 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');/*projectheading*/
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');/*goblin*/
+
+
+body{
+position: relative;
+width: 1440px;
+height: 1844px;
+background: #F3F3F3;
+}
+
+.navigation_bar{
+position: absolute;
+width: 1120px;
+height: 35px;
+left: calc(50% - 1120px/2);
+top: 94px;
+}
+
+.menu{
+position: absolute;
+width: 384.91px;
+height: 20px;
+left: 735.09px;
+top: 13px;
+}
+
+.playground{
+position: absolute;
+left: 45.96%;
+right: 9.74%;
+top: -37.14%;
+bottom: 5.71%;
+}
+
+.work{
+position: absolute;
+left: 1.63%;
+right: 29.94%;
+top: -37.14%;
+bottom: 5.71%;
+}
+
+.contact{
+position: absolute;
+left: 80.09%;
+right: 0%;
+top: -37.14%;
+bottom: 5.71%;
+}
+
+.about{
+position: absolute;
+left: 22.9%;
+right: 121.88%;
+top: -37.14%;
+bottom: 5.71%;
+}
+
+.sitelogo{
+position: absolute;
+left: -189%;
+right: 93.98%;
+top: -50.57%;
+bottom: 5.71%;
+}
+
+.SeCtIoN{
+position: absolute;
+width: 1120px;
+height: 1242px;
+left: 180px;
+top: 360px;
+}
+
+.me{
+position: absolute;
+width: 1120px;
+height: 590px;
+left: 1px;
+top: -1px;
+}
+
+.hi{
+position: absolute;
+width: 480px;
+height: 199px;
+left: calc(49% - 480px/2 - 320px);
+top: -10px;   
+font-family: 'DM Sans', sans-serif;
+font-weight: 500;
+font-weight: 500;
+font-size: 60px;
+line-height: 97.2%;
+letter-spacing: -0.03em;
+color: #181717;  
+}
+
+.mywork{
+position: absolute;
+width: 575px;
+height: 359px;
+left: calc(49% - 575px/2 - 272.5px);
+top: 221px; 
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 117%;
+letter-spacing: -0.03em;
+color: #606060;  
+}
+
+.profilepic{
+position: absolute;
+width: 421px;
+height: 590px;
+left: calc(50% - 421px/2 + 349.5px);
+top: -30px;    
+}
+
+.mainsoftware{
+position: absolute;
+width: 124px;
+height: 20px;
+left: calc(49% - 124px/2 - 498px);
+top: 730px; 
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 121.5%;
+letter-spacing: -0.03em;
+text-decoration-line: underline;
+color: #181717;   
+}
+
+.pixo{
+position: absolute;
+width: 436px;
+height: 54px;
+left: calc(49% - 436px/2 - 155px);
+top: 728px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 121.5%;
+letter-spacing: -0.03em;
+color: #181717;
+}
+
+.adobe{
+position: absolute;
+width: 213px;
+height: 22px;
+left: calc(49% - 213px/2 - 265.5px);
+top: 805px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 121.5%;
+letter-spacing: -0.03em;
+color: #181717; 
+}
+
+.mainskills{
+position: absolute;
+width: 124px;
+height: 20px;
+left: calc(49% - 124px/2 - 498px);
+top: 899px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 121.5%;
+letter-spacing: -0.03em;
+text-decoration-line: underline;
+color: #181717;
+}
+
+.organic{
+position: absolute;
+width: 401px;
+height: 44px;
+left: calc(49% - 401px/2 - 172.5px);
+top: 895px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 121.5%;
+letter-spacing: -0.03em;
+color: #181717;
+}
+
+.line1{
+position: absolute;
+width: 1120px;
+height: 2px;
+left: calc(49% - 1120px/2);
+top: 1070px;
+border-bottom: 3px solid #181717;
+}
+
+.thrill{
+position: absolute;
+width: 347px;
+height: 71px;
+left: calc(50% - 347px/2 - 386.5px);
+top: 1150px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 117%;
+letter-spacing: -0.03em;
+color: #181717;
+}
+
+.arrow{
+position: absolute;
+width: 21px;
+height: 24px;
+left: calc(50% - 21px/2 - 290.5px);
+top: 1196px;    
+transform: rotate(-0deg);
+}
+
+.mail{
+position: absolute;
+width: 372px;
+height: 37px;
+left: calc(49% - 372px/2 + 295px);
+top: 1156px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 117%;
+letter-spacing: -0.03em;
+color: #181717; 
+}
+
+.view{
+position: absolute;
+width: 110px;
+height: 22px;
+left: calc(49% - 110px/2 + 164px);
+top: 1220px; 
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 121.5%;
+letter-spacing: -0.03em;
+color: #181717;  
+}
+
+.FoOtEr{
+position: absolute;
+width: 1120px;
+height: 20px;
+left: 190px;
+top: 1790px;
+}
+    
+.myname{
+position: absolute;
+left: 0%;
+right: 75.82%;
+top: 0%;
+bottom: 0%;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 120%;
+letter-spacing: -0.03em; 
+color: #2429AF;  
+}
+    
+.artstation{
+position: absolute;
+left: 70.59%;
+right: 20.64%;
+top: 0%;
+bottom: 0%;
+}
+    
+.linkedin{
+position: absolute;
+left: 82.2%;
+right: 9.03%;
+top: 0%;
+bottom: 0%;
+}
+    
+.twitter{
+position: absolute;
+left: 93.8%;
+right: 0%;
+top: 0%;
+bottom: 0%;    
+}
